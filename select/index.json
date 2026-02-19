@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サヨナラのかわりに",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-19T08:28:10.906595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サヨナラのかわりに",
+      "artist": "TUBE",
+      "has_synced": true,
+      "path": "select/01_サヨナラのかわりに_TUBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラのかわりに",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラのかわりに_モーニング娘。.txt"
+    }
+  ]
+}
